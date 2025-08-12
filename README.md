@@ -1,29 +1,31 @@
-File Launcher
+# Запуск файлов
 
-## Description
+## Описание
 
-This app allows you to add files and folders to a list and launch them all at once with a single click. Useful for quickly opening multiple programs or folders together.
+Это приложение позволяет добавлять файлы и папки в список и запускать их все одновременно одним кликом. Удобно для быстрого открытия нескольких программ или папок вместе.
 
-## How to use
+## Как пользоваться
 
-1. Add files with **Add File** button.
-2. Add folders with **Add Folder** button.
-3. Select items and remove them with **Remove Selected** button.
-4. Launch all added items with **Run All** button.
+1. Добавляйте файлы кнопкой **Добавить файл**.
+2. Добавляйте папки кнопкой **Добавить папку**.
+3. Выбирайте элементы и удаляйте их кнопкой **Удалить выделенное**.
+4. Запускайте все добавленные элементы кнопкой **Запустить все**.
 
-Features
+## Особенности
 
-- Supports executables, shortcuts (.lnk), and folders.
-- Special handling for Discord Update.exe.
-- Dark-themed UI.
+- Поддержка запуска исполняемых файлов, ярлыков (.lnk) и папок.
+- Специальная обработка Discord Update.exe.
+- Тёмная тема интерфейса.
 
+---
 
-How to run
+## Как запустить
 
-- Run the script with Python 3:  
+- Запустите скрипт с Python 3:  
   `python siska.py`
 
-- Or use the executable `siska.exe` in the `dist` folder.
+- Или используйте готовый исполняемый файл `siska.exe` из папки `dist`.
 
+---
 
 
